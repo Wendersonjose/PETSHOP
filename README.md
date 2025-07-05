@@ -21,8 +21,9 @@ AOS (Animate On Scroll) para animações suaves ao rolar a página
 ✅ Performance otimizada com Server-side Rendering (SSR)
 ✅ Animações suaves ao rolar a página com AOS
 
-## 🌍 Portifolio Online
+## 🌍 Portifolio Online e Deploy
 👉 [Acesse o meu Portifolio aqui e veja projeto](https://wenderson-jose.vercel.app/)
+👉 [Acesse o meu Deploy aqui e veja site](https://petshop-two-rho.vercel.app/)
 
 ---
 
